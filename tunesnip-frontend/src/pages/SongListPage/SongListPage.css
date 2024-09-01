@@ -1,0 +1,11 @@
+.song-list-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10em;
+}
+
+.song-list-container h1 {
+    margin-bottom: 1em;
+}

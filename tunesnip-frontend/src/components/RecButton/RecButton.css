@@ -11,7 +11,7 @@
     padding: 0.5em;
     animation: ripple 1.5s linear infinite;
     transition: all 0.7s ease;
-    color: #a663cc;
+    color: darkslategrey;
 }
 
 .record:hover {

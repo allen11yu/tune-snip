@@ -1,0 +1,31 @@
+.play-btn {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.cover-art {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hub {
+  transition: all 0.2s ease-in-out;
+}
+
+.youtube:hover {
+  color: #ff0000;
+}
+
+.spotify:hover {
+  color: #1db954;
+}
+
+.itunes:hover {
+  color: #fb5bc5;
+}
+
+.hubs {
+  display: flex;
+  gap: 0.5em;
+}

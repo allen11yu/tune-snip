@@ -1,5 +1,6 @@
 .search-bar-container {
     position: absolute;
     top: 0;
-    padding: 5em;
+    margin-top: 5em;
+    width: 30%;
 }
